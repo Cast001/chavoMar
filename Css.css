@@ -1,0 +1,46 @@
+body{
+    background-image: url(Portada.jpg);
+}
+h1{
+    display: inline-block;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    margin-left: 20px;
+}
+.table{
+    display: inline-block;
+    margin-left: 50%;
+}
+.logo{
+    width: 650px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+}
+.table a{
+text-decoration: none;
+color: white;
+}
+td{
+    padding: 0px 5px;
+}
+.chavo{
+    margin-top: 0px;
+    color: white;
+    width: 550px;
+    margin-left: 6%;
+}
+.boton{
+    margin-left: 20%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    background-color: brown;
+    border: brown;
+    border-radius: 3px;
+}
